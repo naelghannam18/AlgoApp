@@ -16,3 +16,4 @@ The 3 Levels of Security Are:
 - Picture Pattern
 
 # The Other Files Server the SQLite Database and Resources for the Application 
+# Make Sure To Enter An Outlook Email in the TwoFactorAuthentication.py
